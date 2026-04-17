@@ -1,0 +1,10 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "title": "Tu primer título",
+      "author": "Autor",
+      "text": "El texto de la historia va aquí."
+    }
+  ]
+}
